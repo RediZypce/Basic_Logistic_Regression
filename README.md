@@ -1,6 +1,6 @@
 # Basic_Logistic_Regression
 
-Logistic Regression is a supervised machine learning algorithm used for binary classification. It models the probability that a given input belongs to one of two classes (0 or 1). The algorithm uses the logistic (sigmoid) function to transform a linear combination of input features into a probability value between 0 and 1. It learns the optimal parameters (coefficients) by minimizing a cost function, typically the logistic loss or cross-entropy loss. [Check it out!](Logistic_Regressio_randomData.ipyng)
+Logistic Regression is a supervised machine learning algorithm used for binary classification. It models the probability that a given input belongs to one of two classes (0 or 1). The algorithm uses the logistic (sigmoid) function to transform a linear combination of input features into a probability value between 0 and 1. It learns the optimal parameters (coefficients) by minimizing a cost function, typically the logistic loss or cross-entropy loss. [Check it out!](Logistic_Regressio_randomData.ipynb)
 
 
 Here's a bulleted list of what logistic regression can be used for:
