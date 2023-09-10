@@ -75,6 +75,6 @@ Often used in conjunction with collaborative filtering algorithms.
 Identifying defects or faults in manufacturing processes.
 Example: Detecting faulty products on an assembly line.
 
-*Environmental Modeling:
+* Environmental Modeling:
 
 Analyzing environmental data to predict the occurrence of certain events, such as pollution spikes or wildlife behavior.
